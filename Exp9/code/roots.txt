@@ -1,0 +1,33 @@
+Server:		192.168.0.1
+Address:	192.168.0.1#53
+
+Non-authoritative answer:
+.	nameserver = c.root-servers.net.
+.	nameserver = d.root-servers.net.
+.	nameserver = e.root-servers.net.
+.	nameserver = f.root-servers.net.
+.	nameserver = g.root-servers.net.
+.	nameserver = h.root-servers.net.
+.	nameserver = a.root-servers.net.
+.	nameserver = i.root-servers.net.
+.	nameserver = j.root-servers.net.
+.	nameserver = k.root-servers.net.
+.	nameserver = l.root-servers.net.
+.	nameserver = m.root-servers.net.
+.	nameserver = b.root-servers.net.
+
+Authoritative answers can be found from:
+m.root-servers.net	internet address = 202.12.27.33
+m.root-servers.net	has AAAA address 2001:dc3::35
+b.root-servers.net	internet address = 199.9.14.201
+b.root-servers.net	has AAAA address 2001:500:200::b
+c.root-servers.net	internet address = 192.33.4.12
+c.root-servers.net	has AAAA address 2001:500:2::c
+d.root-servers.net	internet address = 199.7.91.13
+d.root-servers.net	has AAAA address 2001:500:2d::d
+e.root-servers.net	internet address = 192.203.230.10
+e.root-servers.net	has AAAA address 2001:500:a8::e
+f.root-servers.net	internet address = 192.5.5.241
+f.root-servers.net	has AAAA address 2001:500:2f::f
+g.root-servers.net	internet address = 192.112.36.4
+

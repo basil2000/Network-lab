@@ -1,0 +1,6 @@
+Server:		ns2.google.com.
+Address:	216.239.34.10#53
+
+Name:	youtube.com
+Address: 142.250.182.78
+
